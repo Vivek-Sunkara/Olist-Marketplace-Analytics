@@ -1,0 +1,6 @@
+segment,customers,revenue,avg_order_value,customer_share_pct,revenue_share_pct
+High-value one-timers (top 20% by spend),17487,7029827.78,402.00,18.47,52.27
+Recent one-timers,29675,2295437.25,77.35,31.33,17.07
+Lapsed one-timers,29694,2230089.27,75.10,31.35,16.58
+Mid one-timers,14973,1147050.66,76.61,15.81,8.53
+Repeat buyers (2+ orders),2874,747124.72,259.96,3.03,5.56

@@ -1,0 +1,8 @@
+view,grp,orders,avg_review,pct_1_2_star
+delivery days,0-7,25925,4.42,7.4
+delivery days,08-14,39896,4.31,8.9
+delivery days,15-21,17523,4.14,11.6
+delivery days,22-30,7832,3.61,24.3
+delivery days,30+,4384,2.24,63.3
+on-time vs late,Late,6378,2.27,62.4
+on-time vs late,On time,89182,4.29,9.2

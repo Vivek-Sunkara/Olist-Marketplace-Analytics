@@ -1,0 +1,17 @@
+{
+  "raw_orders": 99441,
+  "raw_order_items": 112650,
+  "duplicate_order_ids": 0,
+  "products_missing_category_set_to_unknown": 610,
+  "orders_with_multiple_reviews": 551,
+  "orders_with_multiple_payment_rows": 4446,
+  "orders_before_window_filter": 99441,
+  "orders_in_window_2017-01_to_2018-08": 99092,
+  "window_orders_without_items": 739,
+  "delivered_status_but_no_delivery_date": 8,
+  "delivered_orders_missing_review": 643,
+  "items_in_window": 112279,
+  "distinct_categories": 74,
+  "distinct_sellers": 3068,
+  "distinct_customers_unique": 95774
+}

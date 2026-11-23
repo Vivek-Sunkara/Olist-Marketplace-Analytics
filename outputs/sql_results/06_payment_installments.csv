@@ -1,0 +1,10 @@
+view,grp,orders,aov,share_pct
+instalments,1 (upfront),47494,100.1,48.5
+instalments,2-3,22485,114.3,23.0
+instalments,4-6,15966,157.4,16.3
+instalments,7-10,11624,301.2,11.9
+instalments,11+,336,323.1,0.3
+payment type,credit_card,73888,143.6,75.5
+payment type,boleto,19477,121.7,19.9
+payment type,voucher,3028,94.9,3.1
+payment type,debit_card,1512,119.6,1.5
