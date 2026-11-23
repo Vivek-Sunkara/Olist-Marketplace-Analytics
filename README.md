@@ -44,7 +44,7 @@ reports/insights_report.md
 docs/                  data_dictionary.md, tableau_dashboard_guide.md
 ```
 
-## Limitations (be ready to say these in interviews)
+## Limitations 
 - Olist is a general marketplace, not fashion-specific; fashion and accessories are about 2.5% of GMV and are analysed
   as a separate group. The dataset has no discount, traffic or ad data, so there is no conversion or promotion analysis.
 - All results are observational. Associations (late delivery and reviews, instalments and AOV) are not proven causes.
